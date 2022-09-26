@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <div>
+        <p>Este es mi primer comentario de dos líneas</p>
+        <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        </div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=l6_nRqIz_9o">Coldplay - Humankind (Official Video)</a></li>
+            <li><a href="https://www.youtube.com/watch?v=IwnIxk8DdHs">¿Qué son las APIs?¿Para qué sirven?</a></li>
+            <li><a href="https://www.youtube.com/watch?v=fhgrL8hPW7E">¿Cuál es mi nivel de DESARROLLADOR?</a></li>
+        </ul>
+        </div>
+    </body>
+</html>
